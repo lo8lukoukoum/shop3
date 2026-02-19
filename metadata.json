@@ -1,0 +1,5 @@
+{
+  "name": "条码库存收银助手",
+  "description": "一款支持条形码扫描、库存管理及结账统计的中文工具应用，支持数据导出导入。",
+  "requestFramePermissions": ["camera"]
+}
